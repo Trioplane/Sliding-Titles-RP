@@ -4,6 +4,9 @@ Makes your **ordinary vanilla titles** have a **nice refreshing sliding animatio
 
 The RP does not impact performance at the slightest.
 
+## Download on Modrinth
+https://modrinth.com/resourcepack/sliding-titles
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/G06HAZpr75Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Shows the animation, the utility, and how bad I am at PVP Games! (FPS Drops because of my recording software and because when I tab out the FPS decreases. The RP is performant and will not impact performance.)
