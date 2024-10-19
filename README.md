@@ -7,7 +7,7 @@ The RP does not impact performance at the slightest.
 ## Download on Modrinth
 https://modrinth.com/resourcepack/sliding-titles
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/G06HAZpr75Q">
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/G06HAZpr75Q/0.jpg)](https://www.youtube.com/watch?v=G06HAZpr75Q)
 
 Shows the animation, the utility, and how bad I am at PVP Games! (FPS Drops because of my recording software and because when I tab out the FPS decreases. The RP is performant and will not impact performance.)
 
