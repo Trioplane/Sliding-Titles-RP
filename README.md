@@ -1,10 +1,12 @@
 ![Sliding Titles Icon](pack.png)
 # Sliding Titles by Trplnr
-- Makes your **ordinary vanilla titles** have a **nice refreshing sliding animation** thats configurable (instructions below)!
-- The RP does not impact performance at the slightest.
+Makes your **ordinary vanilla titles** have a **nice refreshing sliding animation** thats configurable (instructions below)!
+
+The RP does not impact performance at the slightest.
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/G06HAZpr75Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-- Shows the animation, the utility, and how bad I am at PVP Games! (FPS Drops because of my recording software and because when I tab out the FPS decreases. The RP is performant and will not impact performance.)
+Shows the animation, the utility, and how bad I am at PVP Games! (FPS Drops because of my recording software and because when I tab out the FPS decreases. The RP is performant and will not impact performance.)
 
 ## Configuration:
 If you havent extracted the .zip yet, now is the best time to do so.
