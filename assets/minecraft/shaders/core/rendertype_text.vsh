@@ -33,6 +33,11 @@ out vec2 texCoord0;
       NO_FADE      - Determines if it does the fade animation or not.
                      false = Fade off,
                      true = Fade on.
+    
+    DO NOT REMOVE THE SEMICOLONS OR THE PACK WILL ERROR
+    Simply just edit this part:
+
+    float/bool CONFIG_NAME = <part_to_edit>;
 */
 float TITLE_OFFSET = 0.225;
 float TITLE_SCALE = 0.75;
