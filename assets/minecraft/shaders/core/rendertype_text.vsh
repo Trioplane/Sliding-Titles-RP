@@ -39,7 +39,7 @@ out vec2 texCoord0;
 
     float/bool CONFIG_NAME = <part_to_edit>;
 */
-float TITLE_OFFSET = 0.225;
+float TITLE_OFFSET = 0.25;
 float TITLE_SCALE = 0.75;
 bool FADE = false;
 
